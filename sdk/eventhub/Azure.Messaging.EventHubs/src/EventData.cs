@@ -11,7 +11,7 @@ namespace Azure.Messaging.EventHubs
 {
     /// <summary>
     ///   A set of data encapsulating an event and the associated metadata for
-    ///  use with Event Hubs operations.
+    ///   use with Event Hubs operations.
     /// </summary>
     ///
     public class EventData
